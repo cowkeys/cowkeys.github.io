@@ -18,6 +18,16 @@ a {
   font-size:16px;
   text-decoration: underline;
   color:#5f676d;
+  padding-right: 15px;
+}
+.linktoapi{
+  font-size:13px;
+  text-decoration: underline;
+  color:#5f676d;
+  padding-right: 5px;
+}
+.nonea{
+  text-decoration: none;
 }
 .btn {
   display: inline-block;
