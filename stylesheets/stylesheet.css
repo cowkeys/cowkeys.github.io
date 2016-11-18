@@ -10,11 +10,15 @@ body {
   color: #606c71; }
 
 a {
-  color: #1e6bb8;
-  text-decoration: none; }
+  color: #159957;
+  text-decoration: underline; }
   a:hover {
     text-decoration: underline; }
-
+.linkto{
+  font-size:16px;
+  text-decoration: underline;
+  color:#5f676d;
+}
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
